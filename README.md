@@ -1,1 +1,1 @@
-# IdeaMapWeb.github.io
+# index.html
